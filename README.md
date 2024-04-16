@@ -80,5 +80,6 @@ This repository demonstrates a basic workflow for utilizing a Large Language Mod
 **Happy LLMing!**
 
 **Further Notes:**
-
-* This is a basic example. You may
+* This is a basic example. You may need to modify the scripts based on your specific LLM and desired functionality.
+* Consider exploring the documentation of your chosen LLM library for more advanced configurations and functionalities.
+* The `persist` folder is optional. By default, intermediate data might be stored in the temporary directory. Including this folder allows you to potentially preserve generated embeddings or other data between runs.
