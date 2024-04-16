@@ -1,8 +1,6 @@
-## README.md
+## Making GenAI more cost-efficient and accessible with open-source LLMs
 
-**Project Name:** (Replace with your project name)
-
-This repository demonstrates a basic workflow for utilizing a Large Language Model (LLM) with a retrieval-augmented generation (RAG) approach.
+This repository demonstrates a basic workflow for utilizing a Large Language Model (LLM) with a retrieval-augmented generation (RAG) approach, as described in the article  "Making GenAI more cost-efficient and accessible with open-source LLMs: [https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/](https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/)" by Agile Engine. This article is available as a PDF within this repository.
 
 **Getting Started**
 
@@ -33,7 +31,7 @@ This repository demonstrates a basic workflow for utilizing a Large Language Mod
 
 4. **Download LLM Model:**
    - Choose a pre-trained LLM model for your task. This example uses the Mistral-7B-Instruct model in gguf format. 
-   - Download the model file (e.g., `mistral-7b-instruct-v0.1.Q6_K.gguf`) and place it in the same directory as your code (`code/`).
+   - Download the model file (e.g., `mistral-7b-instruct-v0.1.Q6_K.gguf`) from the Hugging Face model hub and place it in the same directory as your code (`code/`). You can find the model here: [https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF)
 
 **Pre-built Data (Optional):**
 
@@ -83,6 +81,4 @@ This repository demonstrates a basic workflow for utilizing a Large Language Mod
 
 **Further Notes:**
 
-* This is a basic example. You may need to modify the scripts based on your specific LLM and desired functionality.
-* Consider exploring the documentation of your chosen LLM library for more advanced configurations and functionalities.
-* The `persist` folder is optional. By default, intermediate data might be stored in the temporary directory. Including this folder allows you to potentially preserve generated embeddings or other data between runs.
+* This is a basic example. You may
