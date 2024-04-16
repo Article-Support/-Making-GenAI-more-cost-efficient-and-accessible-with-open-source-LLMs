@@ -1,0 +1,5 @@
+/.venv
+/llama-2-7b.Q4_0.gguf
+/mistral-7b-instruct-v0.1.Q6_K.gguf
+files
+.archive
