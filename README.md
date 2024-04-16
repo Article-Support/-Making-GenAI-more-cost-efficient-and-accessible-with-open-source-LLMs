@@ -1,6 +1,6 @@
 ## Making GenAI more cost-efficient and accessible with open-source LLMs
 
-This repository demonstrates a basic workflow for utilizing a Large Language Model (LLM) with a retrieval-augmented generation (RAG) approach, as described in the article  "Making GenAI more cost-efficient and accessible with open-source LLMs: [https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/](https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/)" by Agile Engine. This article is available as a PDF within this repository.
+This repository demonstrates a basic workflow for utilizing a Large Language Model (LLM) with a retrieval-augmented generation (RAG) approach, as described in the article  "Making GenAI more cost-efficient and accessible with open-source LLMs: [https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/](https://agileengine.com/making-genai-more-cost-efficient-and-accessible-with-open-source-llms/)" by Agile Engine. 
 
 **Getting Started**
 
